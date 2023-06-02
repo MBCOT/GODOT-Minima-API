@@ -5,10 +5,13 @@ A Godot - Minima API integration that let you build any game integrated on your 
   - An API that let you integrate GODOT Engine Game into minima node. 
   - Do any **2d / 3d / single player / multiplayer game** that can interact directly with your minima node !!!
   - So that it open a lot of possiblilities
-  -  Play To Earn
-  -  All actors of the game could be tokenized, powers, skins, damage,utilites
-  -  Buy NFT tokens to use on the game that represent, weapons, shield, skin,etc.
-  -  Dynamic publicity on the game, when a publicity token is sent to an address the game is tracking it can show the publicity the tokens embed, on realtime and could be also part of the game environment,like show on a wall, or any other object of the game-
+    - Play to earn.
+    - Generate tokens on certain events of the game.
+    - Buy tokens that represent players, weapons, building.
+    - Dynamic publicity integrated into the game, only receiving a token to a specific address or
+      contract of the minima node that the game is tracking and would get its info to post on the game or on any object of the game.
+    - Receiving real data streams that the game could represent as points, objects,
+      (maybe real race track GPS cars positions)...
   
 - **STATUS of the API**
   - It works, it can use any minima command so can do any transaction or interaction with the node, the tokens and the coins.
