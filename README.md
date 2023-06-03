@@ -1,4 +1,4 @@
-# Godot-Minima-API <img src="logo_green.png" width="350" title="Godot - Minima API integration" alt="Godot - Minima API integration" align="right">
+# Godot-Minima-API <img src="logo_red.png" width="350" title="Godot - Minima API integration" alt="Godot - Minima API integration" align="right">
 **A Godot - Minima API integration that let you build any game integrated on your minima node**
 
 <br/><br/>
