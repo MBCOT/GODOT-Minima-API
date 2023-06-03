@@ -22,3 +22,11 @@
   - The code need to be refactored as there is on it a lot of direrent options aproached mixed and its need to be clean and improve some things.
   - So any game can be developed and can interact with a minima node like on any dapp does, openening a huge new innovative games any sectors but specially on the play to earn, due to the faciliy for minima to deal with tokens and the game to interact with the API.
   - A new Proof of concept is being built to demonstrate the capabilities of mixing a game with a minima node.
+- **Images**
+  - <a href="link address"><img src="images/arcade1_jump.png" width="350"/></a>
+    <a href="link address"><img src="images/game_screen.png" width="350"/></a>
+    <a href="link address"><img src="images/joc3d_derrape.png" width="350"/></a>
+    <a href="link address"><img src="images/joc3d_panoramica.png" width="350"/></a>
+    <a href="link address"><img src="images/Show-Publicity-DAPP1.png" width="350"/></a>
+    <a href="link address"><img src="images/Show-Publicity-DAPP2.png" width="350"/></a>
+ 
