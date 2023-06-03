@@ -1,5 +1,7 @@
-# Godot-Minima-API
-A Godot - Minima API integration that let you build any game integrated on your minima node !!
+# Godot-Minima-API <img src="logo_green.png" width="350" title="Godot - Minima API integration" alt="Godot - Minima API integration" align="right">
+**A Godot - Minima API integration that let you build any game integrated on your minima node**
+
+<br/><br/>
 
 - **GODOT-MINIMA API**
   - An API that let you integrate GODOT Engine Game into minima node. 
